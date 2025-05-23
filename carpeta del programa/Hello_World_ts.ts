@@ -1,7 +1,4 @@
-import promptSync from 'prompt-sync';
-const prompt = promptSync();
-
-/// Functions
+/// Functions exercises for Bootcamp homework
 
 // Exersice 1
 
